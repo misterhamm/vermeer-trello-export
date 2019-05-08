@@ -1,0 +1,9 @@
+/// <reference path="_variables.scss" />
+/// <reference path="_mixins.scss" />
+
+table {
+  width: 100%;
+  td:last-child {
+    min-width: 150px;
+  }
+}
